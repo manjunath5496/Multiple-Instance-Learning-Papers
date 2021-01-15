@@ -80,42 +80,42 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(44).pdf" style="text-decoration:none;">Weakly-supervised Temporal Action Localization by Uncertainty Modeling</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(45).pdf" style="text-decoration:none;">Leveraging Instance-, Image- and Dataset-Level Information for Weakly Supervised Instance Segmentation</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Event Detection: Gate Diversity and Syntactic Importance Scores for Graph Convolution Neural Networks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(46).pdf" style="text-decoration:none;">Multiple Anchor Learning for Visual Object Detection</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Severing the Edge Between Before and After: Neural Architectures for Temporal Ordering of Events</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">Affective Event Classification with Discourse-enhanced Self-training</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(47).pdf" style="text-decoration:none;">Modern Hopfield Networks and Attention for Immune Repertoire Classification</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(48).pdf" style="text-decoration:none;">Weakly supervised multiple instance learning histopathological tumor segmentation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(49).pdf" style="text-decoration:none;">C-MIL: Continuation Multiple Instance Learning for Weakly Supervised Object Detection</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(50).pdf" style="text-decoration:none;">Meta2: Memory-efficient taxonomic classification and abundance estimation for metagenomics with deep learning</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(51).pdf" style="text-decoration:none;">A Data-driven Approach for Noise Reduction in Distantly Supervised Biomedical Relation Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(52).pdf" style="text-decoration:none;">Weakly Supervised Domain Detection</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(53).pdf" style="text-decoration:none;">Multiple Instance Dictionary Learning using Functions of Multiple Instances</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(54).pdf" style="text-decoration:none;">Convex Formulation of Multiple Instance Learning from Positive and Unlabeled Bags</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(55).pdf" style="text-decoration:none;">Multi-Task Learning for Interpretable Weakly Labelled Sound Event Detection</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(56).pdf" style="text-decoration:none;">Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis </a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(57).pdf" style="text-decoration:none;">Learning from Aggregate Observations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(58).pdf" style="text-decoration:none;">Distantly Supervised Relation Extraction in Federated Settings</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(59).pdf" style="text-decoration:none;">Variational Bayesian Multiple Instance Learning with Gaussian Processes</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(60).pdf" style="text-decoration:none;">Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are BothWeakly Supervised</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(61).pdf" style="text-decoration:none;"> Theory and Algorithms for Shapelet-based Multiple-Instance Learning</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(62).pdf" style="text-decoration:none;">Multiple Instance Learning for Efficient Sequential Data Classification on Resource-constrained Devices</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(63).pdf" style="text-decoration:none;">An embarrassingly simple approach to neural multiple instance classification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(64).pdf" style="text-decoration:none;">Using Neural Network Formalism to Solve multiple-Instance Problems</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(65).pdf" style="text-decoration:none;">Learning Maximally Predictive Prototypes in Multiple Instance Learning </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Multiple-Instance-Learning-Papers/blob/master/ml(66).pdf" style="text-decoration:none;">A Multiclass Multiple Instance Learning Method with Exact Likelihood</a></li> 
  
    </ul>
